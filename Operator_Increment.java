@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Tazkiya_050626;
+package Reza Luna;
 
 /**
  *
@@ -17,4 +17,5 @@ public class Operator_Increment {
  k= ++j + i;
  System.out.println("k = "+ k);
     }
+
 }
