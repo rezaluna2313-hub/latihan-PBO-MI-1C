@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Tazkiya_050626;
+package Reza Luna;
 
 /**
  *
@@ -48,3 +48,4 @@ System.out.println(" i != j = " + (i != j)); //true
 System.out.println(" k != j = " + (k != j)); //false
    }
 }
+
